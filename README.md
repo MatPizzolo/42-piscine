@@ -10,7 +10,7 @@
 
 ## About
 
-Welcome to my GitHub repository for my projects during the 42 C Piscine!
+Welcome to my GitHub repository for my projects during the 42 Madrid C Piscine!
 
 This repository contains all of the projects that I completed during my time at the 42 C Piscine, a rigorous 4-week coding bootcamp. Each project is contained within its own directory, and includes all of the source code, Makefiles, and any necessary resources.
 
