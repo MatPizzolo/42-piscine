@@ -22,7 +22,9 @@ Thank you for visiting my GitHub repository, and please feel free to reach out t
 
 </br>
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<div align="center">
+  <img src="cluster.jpeg" alt="Green check mark" width="405" style="vertical-align:middle;">
+</div>
 
 </br>
 
@@ -74,7 +76,6 @@ Thank you for visiting my GitHub repository, and please feel free to reach out t
 | c 04     | 57%    |
 | C 05     | 0%     |
 | C 06     | 100%   |
-| C 07     | 0%     |
 
 
 </br>
@@ -89,9 +90,3 @@ Thank you for visiting my GitHub repository, and please feel free to reach out t
 |  Final |   60%  |
 
 
-
-
-
-
-<!-- -->
-[product-screenshot]: cluster.jpeg
