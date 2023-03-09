@@ -67,7 +67,7 @@ Thank you for visiting my GitHub repository, and please feel free to reach out t
 
 | Project  | Status |
 |:--------:|--------|
-| Shell 00 | 100%   |
+| [Shell 00](Shell_00) | 100%   |
 | Shell 01 | 100%   |
 | C 00     | 100%   |
 | C 01     | 100%   |
