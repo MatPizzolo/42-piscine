@@ -20,6 +20,9 @@ I am proud of the work that I have done during the 42 C Piscine, and I believe t
 
 Thank you for visiting my GitHub repository, and please feel free to reach out to me if you have any questions or feedback.
 
+</br>
+
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 </br>
 
@@ -84,3 +87,11 @@ Thank you for visiting my GitHub repository, and please feel free to reach out t
 |   01   |   48%  |
 |   02   |   0%   |
 |  Final |   60%  |
+
+
+
+
+
+
+<!-- -->
+[product-screenshot]: cluster.jpeg
