@@ -65,17 +65,17 @@ Thank you for visiting my GitHub repository, and please feel free to reach out t
 
 ## Projects
 
-| Project  | Status |
-|:--------:|--------|
-| [Shell 00](./Shell00) | 100%   |
-| Shell 01 | 100%   |
-| C 00     | 100%   |
-| C 01     | 100%   |
-| C 02     | 100%   |
-| C 03     | 100%   |
-| c 04     | 57%    |
-| C 05     | 0%     |
-| C 06     | 100%   |
+| Project               | Status |
+|:---------------------:|--------|
+| [Shell 00](./Shell00) | 100%   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Green-checkmark.svg/1957px-Green-checkmark.svg.png" alt="Green check mark" width="15" style="vertical-align:middle;">|
+| [Shell 01](./Shell01) | 100%  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Green-checkmark.svg/1957px-Green-checkmark.svg.png" alt="Green check mark" width="15" style="vertical-align:middle;"> |
+| [C 00](./C_00)        | 100%  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Green-checkmark.svg/1957px-Green-checkmark.svg.png" alt="Green check mark" width="15" style="vertical-align:middle;"> |
+| [C 01](./C_01)        | 100%   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Green-checkmark.svg/1957px-Green-checkmark.svg.png" alt="Green check mark" width="15" style="vertical-align:middle;">|
+| [C 02](./C_02)        | 100%  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Green-checkmark.svg/1957px-Green-checkmark.svg.png" alt="Green check mark" width="15" style="vertical-align:middle;"> |
+| [C 03](./C_03)        | 100%  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Green-checkmark.svg/1957px-Green-checkmark.svg.png" alt="Green check mark" width="15" style="vertical-align:middle;"> |
+| [c 04](./C_04)        | 57%    <img src="https://cliply.co/wp-content/uploads/2021/07/372107370_CROSS_MARK_400.png" alt="Green check mark" width="15" style="vertical-align:middle;">|
+| [C 05](./C_05)        | 0%    <img src="https://cliply.co/wp-content/uploads/2021/07/372107370_CROSS_MARK_400.png" alt="Green check mark" width="15" style="vertical-align:middle;"> |
+| [C 06](./C_06)        | 100%  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Green-checkmark.svg/1957px-Green-checkmark.svg.png" alt="Green check mark" width="15" style="vertical-align:middle;"> |
 
 
 </br>
@@ -84,9 +84,9 @@ Thank you for visiting my GitHub repository, and please feel free to reach out t
 
 | Exam N | Status |
 |:------:|--------|
-|   00   |   48%  |
-|   01   |   48%  |
-|   02   |   0%   |
-|  Final |   60%  |
+|   00   |   48%  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Green-checkmark.svg/1957px-Green-checkmark.svg.png" alt="Green check mark" width="15" style="vertical-align:middle;">|
+|   01   |   48% <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Green-checkmark.svg/1957px-Green-checkmark.svg.png" alt="Green check mark" width="15" style="vertical-align:middle;"> |
+|   02   |   0%   <img src="https://cliply.co/wp-content/uploads/2021/07/372107370_CROSS_MARK_400.png" alt="Green check mark" width="15" style="vertical-align:middle;">|
+|  Final |   60%  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Green-checkmark.svg/1957px-Green-checkmark.svg.png" alt="Green check mark" width="15" style="vertical-align:middle;">|
 
 
